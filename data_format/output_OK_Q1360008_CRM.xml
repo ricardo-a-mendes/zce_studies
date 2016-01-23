@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CRM>
+  <bo_objid>6488991</bo_objid>
+  <name>DESENTUPIDORA MASTER LTDA ME</name>
+  <cnpj>10692927000193</cnpj>
+  <establish_date>13/03/09</establish_date>
+  <ie/>
+  <tipo>Empresa Privada</tipo>
+  <cust_type>Comercial</cust_type>
+  <cust_sub_type>Peq&amp;Média Empresa</cust_sub_type>
+  <black_list_status>Probdade_aprovMEDIA</black_list_status>
+  <segment>PME</segment>
+  <private_class_objid>12402</private_class_objid>
+  <private_class>Comercial</private_class>
+  <public_class_objid>15577</public_class_objid>
+  <public_class>Selecione</public_class>
+  <is_fundo_pobreza>0</is_fundo_pobreza>
+  <is_fome_zero>0</is_fome_zero>
+  <terr_objid>30090</terr_objid>
+  <terr_id>1899</terr_id>
+  <terr_name>MG-DIAMOND TELECOM - WM1S</terr_name>
+  <terr_type>Unidade de Venda</terr_type>
+  <terr_rank>PME</terr_rank>
+  <cnae_list count="2">
+    <cnae id="1">
+      <name>8121400 - Limpeza em prédios e em domicílios</name>
+      <sic_code>8121400</sic_code>
+    </cnae>
+    <cnae id="2">
+      <name>8122200 - Imunização e controle de pragas urbanas</name>
+      <sic_code>8122200</sic_code>
+    </cnae>
+  </cnae_list>
+  <address_list count="1">
+    <address id="1">
+      <role_name>Principal</role_name>
+      <addr_objid>8016565</addr_objid>
+      <address/>
+      <city>BELO HORIZONTE</city>
+      <state>MINAS GERAIS</state>
+      <zipcode>30870020</zipcode>
+      <street_name>DEPUTADO CLAUDIO PINHEIRO DE LIMA</street_name>
+      <district>NOSSA SENHORA DA GLORIA</district>
+      <x_remarks/>
+      <street_number>852</street_number>
+      <x_address>852 DEPUTADO CLAUDIO PINHEIRO DE LIMA BELO HORIZONTE 3106200 NOSSA SENHORA DA GLORIA MINAS GERAIS</x_address>
+      <ddd/>
+      <street_type_objid>14330</street_type_objid>
+      <street_type>RUA</street_type>
+    </address>
+  </address_list>
+  <account_member_list count="1">
+    <account_member id="1">
+      <role_name>Gerente da Conta</role_name>
+      <login_name>7UY7I</login_name>
+      <first_name>RAYANE</first_name>
+      <last_name>PERDIGAO</last_name>
+      <dealer_code>WM1S</dealer_code>
+      <market_objid>10714</market_objid>
+      <market>Minas Gerais</market>
+      <channel_objid>12308</channel_objid>
+      <channel>CORP-PME</channel>
+      <emp_area_objid>16172</emp_area_objid>
+      <emp_area>NA</emp_area>
+      <email>usuario.sem.email@claro.com.br</email>
+    </account_member>
+  </account_member_list>
+  <territory_member_list count="0"/>
+  <quote_details>
+    <id>Q1360008</id>
+    <create_dt>18/09/15</create_dt>
+    <expire_date>18/10/15</expire_date>
+    <title>DESENTUPIDORA MASTER LTDA ME</title>
+    <condition_objid>6847288</condition_objid>
+    <status_objid>10109</status_objid>
+    <status>Validação Pendente</status>
+    <opp_objid>4797164</opp_objid>
+    <opp_name>DESENTUPIDORA MASTER LTDA ME</opp_name>
+    <opp_id>1351183</opp_id>
+    <dealer_objid>768</dealer_objid>
+    <dealer>NY Dealer</dealer>
+    <term_objid>318</term_objid>
+    <term>U.S. Standard</term>
+    <type_objid>7</type_objid>
+    <type>Time and Materials</type>
+    <validation_status_objid>647</validation_status_objid>
+    <validation_status>Pending</validation_status>
+    <simulation_id>E001</simulation_id>
+    <quote_commission>100</quote_commission>
+    <valorCashBack100>193,800003</valorCashBack100>
+    <valorCashBack85>164,73000255</valorCashBack85>
+    <valorTotalCashBackPorLinha>193,800003</valorTotalCashBackPorLinha>
+  </quote_details>
+  <phase_list count="13">
+    <phase id="1">
+      <status>COMPLETADA</status>
+      <title>Inicial</title>
+    </phase>
+    <phase id="2">
+      <status>COMPLETADA</status>
+      <title>Negociacao</title>
+    </phase>
+    <phase id="3">
+      <status>EM PROGRESSO</status>
+      <title>Validacao Pendente</title>
+    </phase>
+    <phase id="4">
+      <status>NAO INICIADA</status>
+      <title>Validada</title>
+    </phase>
+    <phase id="5">
+      <status>NAO INICIADA</status>
+      <title>Emitida</title>
+    </phase>
+    <phase id="6">
+      <status>NAO INICIADA</status>
+      <title>Aceita</title>
+    </phase>
+    <phase id="7">
+      <status>NAO INICIADA</status>
+      <title>Configurada</title>
+    </phase>
+    <phase id="8">
+      <status>NAO INICIADA</status>
+      <title>Digitalizada</title>
+    </phase>
+    <phase id="9">
+      <status>NAO INICIADA</status>
+      <title>Analise de credito</title>
+    </phase>
+    <phase id="10">
+      <status>NAO INICIADA</status>
+      <title>Concluida inspecao nao realizada</title>
+    </phase>
+    <phase id="11">
+      <status>NAO INICIADA</status>
+      <title>Concluida inspecao pendente</title>
+    </phase>
+    <phase id="12">
+      <status>NAO INICIADA</status>
+      <title>Concluida</title>
+    </phase>
+    <phase id="13">
+      <status>NAO INICIADA</status>
+      <title>Cancelada</title>
+    </phase>
+  </phase_list>
+  <execution_status>
+    <status>OK</status>
+    <error_code/>
+    <error_msg/>
+  </execution_status>
+</CRM>
+

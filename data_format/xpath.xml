@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configdata>
+    <production>
+        <resourse name="dbadapter" cost="4">sqlite</resourse>
+    </production>
+    <staging>
+        <resourse name="dbadapter" cost="12">mysql</resourse>
+        <resourse name="dbadapter" cost="43">db2</resourse>
+    </staging>
+    <development>
+        <resourse name="dbadapter" cost="22">oci</resourse>
+    </development>
+</configdata>

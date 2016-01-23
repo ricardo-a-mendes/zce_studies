@@ -1,0 +1,3536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OMS>
+  <quote_id>Q1360008</quote_id>
+  <qtdEquipamentos>3</qtdEquipamentos>
+  <qtdLinhas>2</qtdLinhas>
+  <franquiaInstalada/>
+  <valorEquipamentos>3248</valorEquipamentos>
+  <iscashback>1</iscashback>
+  <qtdlinhasvoz>1</qtdlinhasvoz>
+  <valorNegociado>151.8</valorNegociado>
+  <valorNegociadoDescontado>151.8</valorNegociadoDescontado>
+  <valorCashBack100>193.8</valorCashBack100>
+  <valorCashBack85>164.73</valorCashBack85>
+  <valorCashBackPorLinha>9.69</valorCashBackPorLinha>
+  <valorTotalCashBackPorLinha>193.8</valorTotalCashBackPorLinha>
+  <valorCashBack85PorLinha>8.24</valorCashBack85PorLinha>
+  <valorcashbackMG100>129.2</valorcashbackMG100>
+  <valorcashbackMG85>109.82</valorcashbackMG85>
+  <valorcashbackMGporlinha>6.46</valorcashbackMGporlinha>
+  <valorcashbackMG85porlinha>5.49</valorcashbackMG85porlinha>
+  <equipmentsWithCashBack>2</equipmentsWithCashBack>
+  <order_list count="3">
+    <order id="1">
+      <order_id>255478877</order_id>
+      <create_dt>22/09/15</create_dt>
+      <status>EX</status>
+      <status_decode>Aberta</status_decode>
+      <sales_channel>CORPME</sales_channel>
+      <source_order>255478877</source_order>
+      <dealer_code>WM1S</dealer_code>
+      <current_sales_channel>CORPME</current_sales_channel>
+      <oa_id>255478878</oa_id>
+      <oa_status>NE</oa_status>
+      <oa_status_decode>Negociação</oa_status_decode>
+      <action_type>CH</action_type>
+      <action_type_decode>Alteração</action_type_decode>
+      <ap_id>655483096</ap_id>
+      <ap_version_id>7</ap_version_id>
+      <main_ind>1</main_ind>
+      <quantity>1</quantity>
+      <reason>Combo - Incremento de Modulos</reason>
+      <l9_group_spn_ticket_id/>
+      <l9_individual_spn_ticket_id/>
+      <customer_id>587098111</customer_id>
+      <root_customer_id/>
+      <organization_id>84520167</organization_id>
+      <isFullRenew>0</isFullRenew>
+      <hasTradeIn/>
+      <percDesc/>
+      <l9_market_id>ST_MG</l9_market_id>
+      <l9_market_id_desc>Minas Gerais</l9_market_id_desc>
+      <l9_shipping_adr_id>8016565</l9_shipping_adr_id>
+      <area_code/>
+      <negallowinst/>
+      <franquiaInstalada/>
+      <valorEquipamentos>1164</valorEquipamentos>
+      <valorNegociado>54.9</valorNegociado>
+      <valorNegociadoDescontado>54.9</valorNegociadoDescontado>
+      <valorCashBack100>0</valorCashBack100>
+      <valorCashBack85>0</valorCashBack85>
+      <valorCashBackPorLinha>0</valorCashBackPorLinha>
+      <valorCashBack85PorLinha>0</valorCashBack85PorLinha>
+      <equipmentsWithCashBack>1</equipmentsWithCashBack>
+      <apitem_list count="26">
+        <apitem id="1">
+          <ap_level>1</ap_level>
+          <ap_id>655483096</ap_id>
+          <ap_version_id>7</ap_version_id>
+          <main_ind>1</main_ind>
+          <ap_id_dominant>655483093</ap_id_dominant>
+          <service_id>3184494360</service_id>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50000191</epc_id>
+          <epc_version_id>10013224</epc_version_id>
+          <name_text>Assinante</name_text>
+          <name_text_idented>Assinante</name_text_idented>
+          <service_type>WIRS</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>WIRLSMC</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="15">
+            <attr id="1">
+              <domain>ImpBoolean</domain>
+              <name>AcceptEmailSMSAtt</name>
+              <value/>
+              <nameDesc>Publicidade via Email e SMS</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpDadoType</domain>
+              <name>SubTypeDadosAtt</name>
+              <value>PGGS</value>
+              <nameDesc>Tecnologia Dados</nameDesc>
+              <valueDesc>Pós-Pago Tecnologia GSM</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsString</domain>
+              <name>TemporaryVoiceLineMSISDN</name>
+              <value>NA</value>
+              <nameDesc>Temporary MSISDN</nameDesc>
+              <valueDesc>NA</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>AbsVanityClass</domain>
+              <name>Resourcecategory</name>
+              <value>29</value>
+              <nameDesc>Resource category</nameDesc>
+              <valueDesc>Corporativo</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>ImpContactLevel</domain>
+              <name>ContactLevelAtt</name>
+              <value>DEPENDENT</value>
+              <nameDesc>Tipo Contato</nameDesc>
+              <valueDesc>Dependente</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>AbsNumeric</domain>
+              <name>ESN_Att</name>
+              <value/>
+              <nameDesc>ESN</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>ImpFGR</domain>
+              <name>FGR_Att</name>
+              <value>N</value>
+              <nameDesc>FGR</nameDesc>
+              <valueDesc>No</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>AbsString</domain>
+              <name>SPNGroupedTicketIDAtt</name>
+              <value/>
+              <nameDesc>Número Ticket Agrupado SPN</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>AbsString</domain>
+              <name>TempTNAtt</name>
+              <value/>
+              <nameDesc>Número Temporário</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>AbsString</domain>
+              <name>MSISDN</name>
+              <value>3184494360</value>
+              <nameDesc>MSISDN</nameDesc>
+              <valueDesc>3184494360</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>AbsString</domain>
+              <name>SPNTicketIDAtt</name>
+              <value/>
+              <nameDesc>Número Ticket SPN</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>AbsString</domain>
+              <name>SIM_att</name>
+              <value>89550534390010416251</value>
+              <nameDesc>SIM</nameDesc>
+              <valueDesc>89550534390010416251</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>ImpSubscriberType</domain>
+              <name>SubTypeAtt</name>
+              <value>PGGS</value>
+              <nameDesc>Tecnologia do Assinante</nameDesc>
+              <valueDesc>Pós-Pago Tecnologia GSM</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>ImpExternalProvider</domain>
+              <name>Formeprovider</name>
+              <value/>
+              <nameDesc>Former provider</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="15">
+              <domain>ImpBoolean</domain>
+              <name>PortingInd</name>
+              <value/>
+              <nameDesc>Porting Ind</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="2">
+          <ap_level>2</ap_level>
+          <ap_id>871354314</ap_id>
+          <ap_version_id>5</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>511174081</epc_id>
+          <epc_version_id>10013083</epc_version_id>
+          <name_text>Renovação Contrato</name_text>
+          <name_text_idented>     Renovação Contrato</name_text_idented>
+          <service_type>PERM</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>RENCONTRAT</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>PJ Renovação Contrato</price_name_text>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="3">
+          <ap_level>2</ap_level>
+          <ap_id>655483117</ap_id>
+          <ap_version_id>6</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500181101</epc_id>
+          <epc_version_id>10013230</epc_version_id>
+          <name_text>CUG</name_text>
+          <name_text_idented>     CUG</name_text_idented>
+          <service_type>CUG</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>CUG</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="2">
+            <attr id="1">
+              <domain>AbsString</domain>
+              <name>CUGNameAtt</name>
+              <value>587098111</value>
+              <nameDesc>Nome do Grupo (CUG)</nameDesc>
+              <valueDesc>587098111</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>AbsNumeric</domain>
+              <name>CUGIDAtt</name>
+              <value>1723507</value>
+              <nameDesc>CUG ID</nameDesc>
+              <valueDesc>1723507</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="4">
+          <ap_level>2</ap_level>
+          <ap_id>1059123360</ap_id>
+          <ap_version_id>3</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500097941</epc_id>
+          <epc_version_id>10010830</epc_version_id>
+          <name_text>Equipamento</name_text>
+          <name_text_idented>     Equipamento</name_text_idented>
+          <service_type>EQGR</service_type>
+          <item_action_type>MR</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>EQUIPAMENTO</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="5">
+          <ap_level>3</ap_level>
+          <ap_id>1059123361</ap_id>
+          <ap_version_id>4</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1059123360</ap_id_dominant>
+          <service_id>359548051365711</service_id>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>509663201</epc_id>
+          <epc_version_id>10013229</epc_version_id>
+          <name_text>Equipamento Genérico</name_text>
+          <name_text_idented>          Equipamento Genérico</name_text_idented>
+          <service_type>HSET</service_type>
+          <item_action_type>MR</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>EQUIP_GEN</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="17">
+            <attr id="1">
+              <domain>ImpManufacturer</domain>
+              <name>ManufacturerAtt</name>
+              <value>SAMSUNG</value>
+              <nameDesc>Fabricante</nameDesc>
+              <valueDesc>Samsung</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpNumInstallments</domain>
+              <name>NumberOfInstallmentsAtt</name>
+              <value>24</value>
+              <nameDesc>Número de Parcelas</nameDesc>
+              <valueDesc>24</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsString</domain>
+              <name>ModeloAtt</name>
+              <value>S7390 - GALAXY TREND</value>
+              <nameDesc>Modelo</nameDesc>
+              <valueDesc>S7390 - GALAXY TREND</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>ImpBoolean</domain>
+              <name>ControleRegraAtt</name>
+              <value>NO</value>
+              <nameDesc>Controle de Regra</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>AbsNumeric</domain>
+              <name>SAPIDAtt</name>
+              <value>15046</value>
+              <nameDesc>SAP ID</nameDesc>
+              <valueDesc>15046</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>AbsNumeric</domain>
+              <name>ArrangementAtt</name>
+              <value/>
+              <nameDesc>Arrangement</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>AbsNumeric</domain>
+              <name>BackupApQuantityAtt</name>
+              <value>0</value>
+              <nameDesc>Quantidade de Aparelhos de Backup</nameDesc>
+              <valueDesc>0</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>AbsString</domain>
+              <name>PesoAtt</name>
+              <value>0.330</value>
+              <nameDesc>Peso</nameDesc>
+              <valueDesc>0.330</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>AbsString</domain>
+              <name>ColorAtt</name>
+              <value>PRETO</value>
+              <nameDesc>Cor</nameDesc>
+              <valueDesc>PRETO</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>AbsString</domain>
+              <name>IMEIAtt</name>
+              <value>359548051365711</value>
+              <nameDesc>IMEI</nameDesc>
+              <valueDesc>359548051365711</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>ImpBoolean</domain>
+              <name>ShipmentIndicatorAtt</name>
+              <value>NO</value>
+              <nameDesc>Indicador de Entrega</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>ImpPurchaseReason</domain>
+              <name>PurchaseReasonAtt</name>
+              <value/>
+              <nameDesc>Motivo Compra</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>AbsNumeric</domain>
+              <name>CashbackIniDateAtt</name>
+              <value/>
+              <nameDesc>Mês de início de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>ImpPaymentType</domain>
+              <name>EquipmentPaymentTypeAtt</name>
+              <value>INSTALLMENT</value>
+              <nameDesc>Forma de Pagamento</nameDesc>
+              <valueDesc>à prazo</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="15">
+              <domain>ImpAcquisitionType</domain>
+              <name>AcquisitionTypeAtt</name>
+              <value>PURCHASED</value>
+              <nameDesc>Condição de Pagamento</nameDesc>
+              <valueDesc>Venda</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="16">
+              <domain>ImpDeliveryChannel</domain>
+              <name>DeliveryChannelAtt</name>
+              <value>LOGISTICA</value>
+              <nameDesc>Método de Entrega</nameDesc>
+              <valueDesc>Logística</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="17">
+              <domain>AbsDouble</domain>
+              <name>ValorParcCashbackAtt</name>
+              <value/>
+              <nameDesc>Valor das parcelas de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="6">
+          <ap_level>2</ap_level>
+          <ap_id>1059123374</ap_id>
+          <ap_version_id>3</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500012831</epc_id>
+          <epc_version_id>10013221</epc_version_id>
+          <name_text>Permanência</name_text>
+          <name_text_idented>     Permanência</name_text_idented>
+          <service_type>PERM</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>PERM</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>PJ Permanencia 24 Meses</price_name_text>
+          <attr_list count="1">
+            <attr id="1">
+              <domain>ImpCommitmentDuration</domain>
+              <name>CommitDurationAtt</name>
+              <value>24</value>
+              <nameDesc>Tempo Permanencia</nameDesc>
+              <valueDesc>PJ 24 Meses</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="7">
+          <ap_level>2</ap_level>
+          <ap_id>1059123385</ap_id>
+          <ap_version_id>4</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id>89550534390010416251</service_id>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500000161</epc_id>
+          <epc_version_id>10013230</epc_version_id>
+          <name_text>SIM Card</name_text>
+          <name_text_idented>     SIM Card</name_text_idented>
+          <service_type>SIM</service_type>
+          <item_action_type>MR</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>SIMCARD</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="14">
+            <attr id="1">
+              <domain>AbsDouble</domain>
+              <name>ValorParcCashbackAtt</name>
+              <value/>
+              <nameDesc>Valor das parcelas de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpManufacturer</domain>
+              <name>ManufacturerAtt</name>
+              <value/>
+              <nameDesc>Fabricante</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsNumeric</domain>
+              <name>BillingArrangementAtt</name>
+              <value/>
+              <nameDesc>Billing Arrangement</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>ImpSalesType</domain>
+              <name>SalesTypeAtt</name>
+              <value>VENDA</value>
+              <nameDesc>Tipo de Venda</nameDesc>
+              <valueDesc>Venda</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>AbsNumeric</domain>
+              <name>CashbackIniDateAtt</name>
+              <value/>
+              <nameDesc>Mês de início de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>ImpAcquisitionType</domain>
+              <name>AcquisitionTypeAtt</name>
+              <value>PURCHASED</value>
+              <nameDesc>Condição de Pagamento</nameDesc>
+              <valueDesc>Venda</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>AbsNumeric</domain>
+              <name>BackupQuantityAtt</name>
+              <value>0</value>
+              <nameDesc>Quantidade Backup</nameDesc>
+              <valueDesc>0</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>ImpNumInstallments</domain>
+              <name>NumberOfInstallmentsAtt</name>
+              <value>1</value>
+              <nameDesc>Número de Parcelas</nameDesc>
+              <valueDesc>1</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>ImpBoolean</domain>
+              <name>ShipmentIndicatorAtt</name>
+              <value>NO</value>
+              <nameDesc>Indicador de Entrega</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>ImpPaymentType</domain>
+              <name>EquipmentPaymentTypeAtt</name>
+              <value>INSTALLMENT</value>
+              <nameDesc>Forma de Pagamento</nameDesc>
+              <valueDesc>à prazo</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>IMP_SAP_SIMCARDS</domain>
+              <name>SIM_SAPIDAtt</name>
+              <value>22547</value>
+              <nameDesc>Tipo Simcard</nameDesc>
+              <valueDesc>SC BOPP 3NP MG 128KB AAC005 FLEX</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>AbsString</domain>
+              <name>ICCIDAtt</name>
+              <value>89550534390010416251</value>
+              <nameDesc>ICCID</nameDesc>
+              <valueDesc>89550534390010416251</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>ImpDeliveryChannel</domain>
+              <name>DeliveryChannelAtt</name>
+              <value>LOGISTICA</value>
+              <nameDesc>Método de Entrega</nameDesc>
+              <valueDesc>Logística</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>AbsNumeric</domain>
+              <name>ArrangementAtt</name>
+              <value/>
+              <nameDesc>Arrangement</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="8">
+          <ap_level>2</ap_level>
+          <ap_id>655483296</ap_id>
+          <ap_version_id>7</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50035761</epc_id>
+          <epc_version_id>10010830</epc_version_id>
+          <name_text>Ofertas Especiais</name_text>
+          <name_text_idented>     Ofertas Especiais</name_text_idented>
+          <service_type>MODG</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>OFERTASESPECIAIS</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="9">
+          <ap_level>3</ap_level>
+          <ap_id>871354300</ap_id>
+          <ap_version_id>5</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483296</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt>100</negotiableallowanceatt>
+          <franqconsindatt/>
+          <epc_id>50010541</epc_id>
+          <epc_version_id>10013187</epc_version_id>
+          <name_text>Bônus Negociado</name_text>
+          <name_text_idented>          Bônus Negociado</name_text_idented>
+          <service_type>BPR</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>BON</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="6">
+            <attr id="1">
+              <domain>ImpPromotionInterval</domain>
+              <name>PromoIntervalAtt</name>
+              <value>M</value>
+              <nameDesc>Intervalo da Promoção</nameDesc>
+              <valueDesc>Meses</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpTempPeriod</domain>
+              <name>TempPeriodAtt</name>
+              <value>24</value>
+              <nameDesc>Período Temporário</nameDesc>
+              <valueDesc>24</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsNumeric</domain>
+              <name>MinimumAllowanceAtt</name>
+              <value>5</value>
+              <nameDesc>Franquia Mínima</nameDesc>
+              <valueDesc>5</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>AbsNumeric</domain>
+              <name>NegotiableAllowanceAtt</name>
+              <value>100</value>
+              <nameDesc>Franquia Negociada</nameDesc>
+              <valueDesc>100</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>AbsNumeric</domain>
+              <name>MaximumAllowanceAtt</name>
+              <value>1000000</value>
+              <nameDesc>Franquia Máxima</nameDesc>
+              <valueDesc>1000000</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>AbsNumeric</domain>
+              <name>AllowanceIncrementAtt</name>
+              <value>5</value>
+              <nameDesc>Incremento de Franquia</nameDesc>
+              <valueDesc>5</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="10">
+          <ap_level>2</ap_level>
+          <ap_id>655483266</ap_id>
+          <ap_version_id>7</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50002821</epc_id>
+          <epc_version_id>10010860</epc_version_id>
+          <name_text>Modulos</name_text>
+          <name_text_idented>     Modulos</name_text_idented>
+          <service_type>MODG</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>MODGROUP</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="11">
+          <ap_level>3</ap_level>
+          <ap_id>655483262</ap_id>
+          <ap_version_id>6</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483266</ap_id_dominant>
+          <service_id/>
+          <rc_amount>4</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>4</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500133321</epc_id>
+          <epc_version_id>10013230</epc_version_id>
+          <name_text>Gestor Online / Tarifa Zero / Tarifa Zero OnNet / Tarifa Zero 21 de LD </name_text>
+          <name_text_idented>          Gestor Online / Tarifa Zero / Tarifa Zero OnNet / Tarifa Zero 21 de LD </name_text_idented>
+          <service_type>MOD</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>MODGOLTZ</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="21">
+            <attr id="1">
+              <domain>ImpValEBT</domain>
+              <name>Pct100MinAMXAtt</name>
+              <value>-1</value>
+              <nameDesc>Pacote 100 Minutos p/ Fixo AMX Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>VALORRC</domain>
+              <name>TZIGAMXAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero Local Intra-Grupo AMX</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>VALORRC</domain>
+              <name>TZOnNetAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero OnNet</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>AbsNumeric</domain>
+              <name>CPNYNO_Att</name>
+              <value/>
+              <nameDesc>CPNYNO</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>ImpBoolean</domain>
+              <name>ONNetAprovAtt</name>
+              <value>NO</value>
+              <nameDesc>OnNet</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>VALORRC</domain>
+              <name>TZIRAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero Intra-rede</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>AbsString</domain>
+              <name>SUBNM_Att</name>
+              <value/>
+              <nameDesc>SUBNM</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>ImpModTZ</domain>
+              <name>TZ21IRNacAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero 21 de LD Intra-Rede Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>ImpPacoteMinutos</domain>
+              <name>MinEBTAtt</name>
+              <value>0</value>
+              <nameDesc>Minutos para Fixo EBT</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>VALORRC</domain>
+              <name>TZAtt</name>
+              <value>4.00</value>
+              <nameDesc>Tarifa Zero Intra-grupo Local</nameDesc>
+              <valueDesc>4.00</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>VALORRC</domain>
+              <name>IGAtt</name>
+              <value>-1</value>
+              <nameDesc>Intra-grupo</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>AbsString</domain>
+              <name>DPTO_Att</name>
+              <value/>
+              <nameDesc>DPTO</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>VALORRC</domain>
+              <name>TZSMSAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero SMS</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>ImpBoolean</domain>
+              <name>TRAtt</name>
+              <value/>
+              <nameDesc>Tarifa Reduzida</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="15">
+              <domain>ImpBoolean</domain>
+              <name>GOLPARTAtt</name>
+              <value>NO</value>
+              <nameDesc>GOL - Numero Particular</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="16">
+              <domain>ImpValEBT</domain>
+              <name>ValMinEBTAtt</name>
+              <value>0</value>
+              <nameDesc>Valor Minutos Fixo EBT</nameDesc>
+              <valueDesc>0.00</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="17">
+              <domain>VALORRC</domain>
+              <name>GOLAtt</name>
+              <value>-1</value>
+              <nameDesc>Gestor Online</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="18">
+              <domain>VALORRC</domain>
+              <name>TZ21Att</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero LD21 Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="19">
+              <domain>ImpBoolean</domain>
+              <name>ModTZFamEmpAtt</name>
+              <value>NO</value>
+              <nameDesc>Tarifa Zero Família Empresa</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="20">
+              <domain>ImpModTZ</domain>
+              <name>TZ21IGNacAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero 21 de LD Intra-Grupo Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="21">
+              <domain>ImpModTZ</domain>
+              <name>TZ21NacAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero 21 de LD Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="12">
+          <ap_level>2</ap_level>
+          <ap_id>655483248</ap_id>
+          <ap_version_id>7</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50008831</epc_id>
+          <epc_version_id>10010910</epc_version_id>
+          <name_text>Serviços Adicionais</name_text>
+          <name_text_idented>     Serviços Adicionais</name_text_idented>
+          <service_type>SADG</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>ADDSERVICE</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="13">
+          <ap_level>3</ap_level>
+          <ap_id>655483239</ap_id>
+          <ap_version_id>6</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483248</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50008501</epc_id>
+          <epc_version_id>10010860</epc_version_id>
+          <name_text>Aprovisionamento</name_text>
+          <name_text_idented>          Aprovisionamento</name_text_idented>
+          <service_type>SAD</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>APRV</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="14">
+          <ap_level>2</ap_level>
+          <ap_id>1059123366</ap_id>
+          <ap_version_id>4</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50002531</epc_id>
+          <epc_version_id>10013050</epc_version_id>
+          <name_text>Pacotes</name_text>
+          <name_text_idented>     Pacotes</name_text_idented>
+          <service_type>PCGR</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>PACKAGES</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="15">
+          <ap_level>3</ap_level>
+          <ap_id>1059123367</ap_id>
+          <ap_version_id>3</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1059123366</ap_id_dominant>
+          <service_id/>
+          <rc_amount>54.9</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>54.9</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>514472732</epc_id>
+          <epc_version_id>10013230</epc_version_id>
+          <name_text>Pacote Internet Ilimitado</name_text>
+          <name_text_idented>          Pacote Internet Ilimitado</name_text_idented>
+          <service_type>PTIN</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>PCTEINTERNETILIM</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>Negacao RTC Plano Base</price_name_text>
+          <attr_list count="10">
+            <attr id="1">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM5000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 5GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM50Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 50MB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM3000Att</name>
+              <value>54.90</value>
+              <nameDesc>Pacote 3GB</nameDesc>
+              <valueDesc>54.90</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM10000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 10GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM100Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 100MB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM1000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 1GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM2000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 2GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM500Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 500MB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM300Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 300MB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM20000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 20GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="16">
+          <ap_level>2</ap_level>
+          <ap_id>655483284</ap_id>
+          <ap_version_id>7</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50000021</epc_id>
+          <epc_version_id>10013130</epc_version_id>
+          <name_text>Plano</name_text>
+          <name_text_idented>     Plano</name_text_idented>
+          <service_type>PGRP</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>PLANO</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="17">
+          <ap_level>3</ap_level>
+          <ap_id>871354303</ap_id>
+          <ap_version_id>5</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483284</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50026751</epc_id>
+          <epc_version_id>10013235</epc_version_id>
+          <name_text>LDN Embratel</name_text>
+          <name_text_idented>          LDN Embratel</name_text_idented>
+          <service_type>RATE</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>LDN_EMBRATEL</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>PJ Tarifa LDN Embratel 9</price_name_text>
+          <attr_list count="1">
+            <attr id="1">
+              <domain>ImpEmbratel</domain>
+              <name>FxEmbratelAtt</name>
+              <value>PJTarifaLDNEmbratel9</value>
+              <nameDesc>Faixa Embratel</nameDesc>
+              <valueDesc>PJ Tarifa LDN Embratel 9</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="18">
+          <ap_level>3</ap_level>
+          <ap_id>1059123376</ap_id>
+          <ap_version_id>4</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483284</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>501934851</epc_id>
+          <epc_version_id>10013211</epc_version_id>
+          <name_text>Sob Medida Corporativo</name_text>
+          <name_text_idented>          Sob Medida Corporativo</name_text_idented>
+          <service_type>PGRP</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>SOBMEDIDACORP_PLAN</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="19">
+          <ap_level>4</ap_level>
+          <ap_id>1059123377</ap_id>
+          <ap_version_id>4</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1059123376</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>515287782</epc_id>
+          <epc_version_id>10013187</epc_version_id>
+          <name_text>Claro Flex</name_text>
+          <name_text_idented>               Claro Flex</name_text_idented>
+          <service_type>PGRP</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>CLAROFLEX_PLANGROUP</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="20">
+          <ap_level>5</ap_level>
+          <ap_id>1059123378</ap_id>
+          <ap_version_id>4</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1059123377</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>515288002</epc_id>
+          <epc_version_id>10013225</epc_version_id>
+          <name_text>Claro Flex 25</name_text>
+          <name_text_idented>                    Claro Flex 25</name_text_idented>
+          <service_type>PLAN</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>CLRFLEX25_PLAN</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="21">
+          <ap_level>6</ap_level>
+          <ap_id>1059123379</ap_id>
+          <ap_version_id>3</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1059123378</ap_id_dominant>
+          <service_id/>
+          <rc_amount>5</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>5</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500028591</epc_id>
+          <epc_version_id>10013226</epc_version_id>
+          <name_text>Assinatura Linha Sob Medida</name_text>
+          <name_text_idented>                         Assinatura Linha Sob Medida</name_text_idented>
+          <service_type>ASS</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>ASS_LINHASOBMEDIDA</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>PJ Assinatura de Linha - Sob Medida</price_name_text>
+          <attr_list count="1">
+            <attr id="1">
+              <domain>VALORRC</domain>
+              <name>AssAtt</name>
+              <value>5.00</value>
+              <nameDesc>Assinatura Linha</nameDesc>
+              <valueDesc>5.00</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="22">
+          <ap_level>6</ap_level>
+          <ap_id>1059123383</ap_id>
+          <ap_version_id>4</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1059123378</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt>130</negotiableallowanceatt>
+          <franqconsindatt/>
+          <epc_id>515322442</epc_id>
+          <epc_version_id>10013015</epc_version_id>
+          <name_text>Franquia Claro Flex 25</name_text>
+          <name_text_idented>                         Franquia Claro Flex 25</name_text_idented>
+          <service_type>BNDL</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>CFLEX25_FRANQUIA</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="4">
+            <attr id="1">
+              <domain>AbsNumeric</domain>
+              <name>MaximumAllowanceAtt</name>
+              <value>1000000</value>
+              <nameDesc>Franquia Máxima</nameDesc>
+              <valueDesc>1000000</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>AbsNumeric</domain>
+              <name>MinimumAllowanceAtt</name>
+              <value>100</value>
+              <nameDesc>Franquia Mínima</nameDesc>
+              <valueDesc>100</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsNumeric</domain>
+              <name>NegotiableAllowanceAtt</name>
+              <value>130</value>
+              <nameDesc>Franquia Negociada</nameDesc>
+              <valueDesc>130</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>AbsNumeric</domain>
+              <name>AllowanceIncrementAtt</name>
+              <value>5</value>
+              <nameDesc>Incremento de Franquia</nameDesc>
+              <valueDesc>5</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="23">
+          <ap_level>6</ap_level>
+          <ap_id>1059123384</ap_id>
+          <ap_version_id>4</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1059123378</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>512107342</epc_id>
+          <epc_version_id>10013050</epc_version_id>
+          <name_text>Tarifa Claro Flex 25</name_text>
+          <name_text_idented>                         Tarifa Claro Flex 25</name_text_idented>
+          <service_type>RATE</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>VC1IRCF025</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="3">
+            <attr id="1">
+              <domain>ImpValorTarifa</domain>
+              <name>VC1MovelAtt</name>
+              <value>0.25</value>
+              <nameDesc>VC1Movel</nameDesc>
+              <valueDesc>0.25</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpValorTarifa</domain>
+              <name>VC1IRAtt</name>
+              <value>0.25</value>
+              <nameDesc>VC1IR</nameDesc>
+              <valueDesc>0.25</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>ImpValorTarifa</domain>
+              <name>VC1FixoAtt</name>
+              <value>0.25</value>
+              <nameDesc>VC1Fixo</nameDesc>
+              <valueDesc>0.25</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="24">
+          <ap_level>2</ap_level>
+          <ap_id>1267902819</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500097941</epc_id>
+          <epc_version_id>10010830</epc_version_id>
+          <name_text>Equipamento</name_text>
+          <name_text_idented>     Equipamento</name_text_idented>
+          <service_type>EQGR</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>EQUIPAMENTO</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="25">
+          <ap_level>3</ap_level>
+          <ap_id>1267902820</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267902819</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>1164</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>1164</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>509663201</epc_id>
+          <epc_version_id>10013229</epc_version_id>
+          <name_text>Equipamento Genérico</name_text>
+          <name_text_idented>          Equipamento Genérico</name_text_idented>
+          <service_type>HSET</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>EQUIP_GEN</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>Handset BO</price_name_text>
+          <attr_list count="17">
+            <attr id="1">
+              <domain>ImpManufacturer</domain>
+              <name>ManufacturerAtt</name>
+              <value>SONY</value>
+              <nameDesc>Fabricante</nameDesc>
+              <valueDesc>Sony</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpNumInstallments</domain>
+              <name>NumberOfInstallmentsAtt</name>
+              <value>20</value>
+              <nameDesc>Número de Parcelas</nameDesc>
+              <valueDesc>20</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsString</domain>
+              <name>ModeloAtt</name>
+              <value>AP 4G SONY E2306 XPERIA M4 AQUA PTO</value>
+              <nameDesc>Modelo</nameDesc>
+              <valueDesc>AP 4G SONY E2306 XPERIA M4 AQUA PTO</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>ImpBoolean</domain>
+              <name>ControleRegraAtt</name>
+              <value>NO</value>
+              <nameDesc>Controle de Regra</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>AbsNumeric</domain>
+              <name>SAPIDAtt</name>
+              <value>16001</value>
+              <nameDesc>SAP ID</nameDesc>
+              <valueDesc>16001</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>AbsNumeric</domain>
+              <name>ArrangementAtt</name>
+              <value/>
+              <nameDesc>Arrangement</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>AbsNumeric</domain>
+              <name>BackupApQuantityAtt</name>
+              <value>0</value>
+              <nameDesc>Quantidade de Aparelhos de Backup</nameDesc>
+              <valueDesc>0</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>AbsString</domain>
+              <name>PesoAtt</name>
+              <value>0.136</value>
+              <nameDesc>Peso</nameDesc>
+              <valueDesc>0.136</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>AbsString</domain>
+              <name>ColorAtt</name>
+              <value>PRETO</value>
+              <nameDesc>Cor</nameDesc>
+              <valueDesc>PRETO</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>AbsString</domain>
+              <name>IMEIAtt</name>
+              <value/>
+              <nameDesc>IMEI</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>ImpBoolean</domain>
+              <name>ShipmentIndicatorAtt</name>
+              <value>YES</value>
+              <nameDesc>Indicador de Entrega</nameDesc>
+              <valueDesc>Sim</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>ImpPurchaseReason</domain>
+              <name>PurchaseReasonAtt</name>
+              <value/>
+              <nameDesc>Motivo Compra</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>AbsNumeric</domain>
+              <name>CashbackIniDateAtt</name>
+              <value/>
+              <nameDesc>Mês de início de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>ImpPaymentType</domain>
+              <name>EquipmentPaymentTypeAtt</name>
+              <value>INSTALLMENT</value>
+              <nameDesc>Forma de Pagamento</nameDesc>
+              <valueDesc>à prazo</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="15">
+              <domain>ImpAcquisitionType</domain>
+              <name>AcquisitionTypeAtt</name>
+              <value>CASHBACK</value>
+              <nameDesc>Condição de Pagamento</nameDesc>
+              <valueDesc>Bônus/Desconto Claro</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="16">
+              <domain>ImpDeliveryChannel</domain>
+              <name>DeliveryChannelAtt</name>
+              <value>LOGISTICA</value>
+              <nameDesc>Método de Entrega</nameDesc>
+              <valueDesc>Logística</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="17">
+              <domain>AbsDouble</domain>
+              <name>ValorParcCashbackAtt</name>
+              <value/>
+              <nameDesc>Valor das parcelas de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="26">
+          <ap_level>2</ap_level>
+          <ap_id>1267902844</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>655483096</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>31.9</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>31.9</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500000161</epc_id>
+          <epc_version_id>10013230</epc_version_id>
+          <name_text>SIM Card</name_text>
+          <name_text_idented>     SIM Card</name_text_idented>
+          <service_type>SIM</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>SIMCARD</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>SimCard BO</price_name_text>
+          <attr_list count="14">
+            <attr id="1">
+              <domain>AbsDouble</domain>
+              <name>ValorParcCashbackAtt</name>
+              <value/>
+              <nameDesc>Valor das parcelas de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpManufacturer</domain>
+              <name>ManufacturerAtt</name>
+              <value/>
+              <nameDesc>Fabricante</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsNumeric</domain>
+              <name>BillingArrangementAtt</name>
+              <value/>
+              <nameDesc>Billing Arrangement</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>ImpSalesType</domain>
+              <name>SalesTypeAtt</name>
+              <value>DESCCLARO</value>
+              <nameDesc>Tipo de Venda</nameDesc>
+              <valueDesc>Desconto Claro</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>AbsNumeric</domain>
+              <name>CashbackIniDateAtt</name>
+              <value/>
+              <nameDesc>Mês de início de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>ImpAcquisitionType</domain>
+              <name>AcquisitionTypeAtt</name>
+              <value>CASHBACK</value>
+              <nameDesc>Condição de Pagamento</nameDesc>
+              <valueDesc>Bônus/Desconto Claro</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>AbsNumeric</domain>
+              <name>BackupQuantityAtt</name>
+              <value>0</value>
+              <nameDesc>Quantidade Backup</nameDesc>
+              <valueDesc>0</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>ImpNumInstallments</domain>
+              <name>NumberOfInstallmentsAtt</name>
+              <value>20</value>
+              <nameDesc>Número de Parcelas</nameDesc>
+              <valueDesc>20</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>ImpBoolean</domain>
+              <name>ShipmentIndicatorAtt</name>
+              <value>NO</value>
+              <nameDesc>Indicador de Entrega</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>ImpPaymentType</domain>
+              <name>EquipmentPaymentTypeAtt</name>
+              <value>INSTALLMENT</value>
+              <nameDesc>Forma de Pagamento</nameDesc>
+              <valueDesc>à prazo</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>IMP_SAP_SIMCARDS</domain>
+              <name>SIM_SAPIDAtt</name>
+              <value>22896</value>
+              <nameDesc>Tipo Simcard</nameDesc>
+              <valueDesc>SCBOPP IMPR 3NP MG 128KB AAC005 TRIPLE</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>AbsString</domain>
+              <name>ICCIDAtt</name>
+              <value/>
+              <nameDesc>ICCID</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>ImpDeliveryChannel</domain>
+              <name>DeliveryChannelAtt</name>
+              <value>LOGISTICA</value>
+              <nameDesc>Método de Entrega</nameDesc>
+              <valueDesc>Logística</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>AbsNumeric</domain>
+              <name>ArrangementAtt</name>
+              <value/>
+              <nameDesc>Arrangement</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+      </apitem_list>
+    </order>
+    <order id="2">
+      <order_id>255471217</order_id>
+      <create_dt>22/09/15</create_dt>
+      <status>EX</status>
+      <status_decode>Aberta</status_decode>
+      <sales_channel>CORPME</sales_channel>
+      <source_order>255471217</source_order>
+      <dealer_code>WM1S</dealer_code>
+      <current_sales_channel>CORPME</current_sales_channel>
+      <oa_id>255471218</oa_id>
+      <oa_status>NE</oa_status>
+      <oa_status_decode>Negociação</oa_status_decode>
+      <action_type>CH</action_type>
+      <action_type_decode>Alteração</action_type_decode>
+      <ap_id>655482586</ap_id>
+      <ap_version_id>4</ap_version_id>
+      <main_ind>1</main_ind>
+      <quantity>1</quantity>
+      <reason>Combo - Incremento de Franquias</reason>
+      <l9_group_spn_ticket_id/>
+      <l9_individual_spn_ticket_id/>
+      <customer_id>587098111</customer_id>
+      <root_customer_id/>
+      <organization_id>84520157</organization_id>
+      <isFullRenew>0</isFullRenew>
+      <hasTradeIn/>
+      <percDesc/>
+      <l9_market_id>ST_MG</l9_market_id>
+      <l9_market_id_desc>Minas Gerais</l9_market_id_desc>
+      <l9_shipping_adr_id/>
+      <area_code/>
+      <negallowinst>100</negallowinst>
+      <franquiaInstalada>100</franquiaInstalada>
+      <valorEquipamentos>0</valorEquipamentos>
+      <valorNegociado>30</valorNegociado>
+      <valorNegociadoDescontado>30</valorNegociadoDescontado>
+      <valorCashBack100>60</valorCashBack100>
+      <valorCashBack85>51</valorCashBack85>
+      <valorCashBackPorLinha>0</valorCashBackPorLinha>
+      <valorCashBack85PorLinha>0</valorCashBack85PorLinha>
+      <equipmentsWithCashBack>0</equipmentsWithCashBack>
+      <apitem_list count="2">
+        <apitem id="1">
+          <ap_level>1</ap_level>
+          <ap_id>655482586</ap_id>
+          <ap_version_id>4</ap_version_id>
+          <main_ind>1</main_ind>
+          <ap_id_dominant>655482583</ap_id_dominant>
+          <service_id>253224550</service_id>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50020421</epc_id>
+          <epc_version_id>10013187</epc_version_id>
+          <name_text>Contrato</name_text>
+          <name_text_idented>Contrato</name_text_idented>
+          <service_type>GLP</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>GLPMC</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="2">
+            <attr id="1">
+              <domain>AbsString</domain>
+              <name>AgreementNoAtt</name>
+              <value>253224550</value>
+              <nameDesc>AgreementNo</nameDesc>
+              <valueDesc>253224550</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpSubscriberType</domain>
+              <name>SubTypeAtt</name>
+              <value>AGRG</value>
+              <nameDesc>Tecnologia do Assinante</nameDesc>
+              <valueDesc>Contrato Generico - Todas Tecnologias</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="2">
+          <ap_level>6</ap_level>
+          <ap_id>1059114660</ap_id>
+          <ap_version_id>2</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1059114659</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt>130</negotiableallowanceatt>
+          <franqconsindatt/>
+          <epc_id>515322442</epc_id>
+          <epc_version_id>10013015</epc_version_id>
+          <name_text>Franquia Claro Flex 25</name_text>
+          <name_text_idented>                         Franquia Claro Flex 25</name_text_idented>
+          <service_type>BNDL</service_type>
+          <item_action_type/>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>CFLEX25_FRANQUIA</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="4">
+            <attr id="1">
+              <domain>AbsNumeric</domain>
+              <name>MaximumAllowanceAtt</name>
+              <value>1000000</value>
+              <nameDesc>Franquia Máxima</nameDesc>
+              <valueDesc>1000000</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>AbsNumeric</domain>
+              <name>MinimumAllowanceAtt</name>
+              <value>100</value>
+              <nameDesc>Franquia Mínima</nameDesc>
+              <valueDesc>100</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsNumeric</domain>
+              <name>NegotiableAllowanceAtt</name>
+              <value>130</value>
+              <nameDesc>Franquia Negociada</nameDesc>
+              <valueDesc>130</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>AbsNumeric</domain>
+              <name>AllowanceIncrementAtt</name>
+              <value>5</value>
+              <nameDesc>Incremento de Franquia</nameDesc>
+              <valueDesc>5</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+      </apitem_list>
+    </order>
+    <order id="3">
+      <order_id>255471834</order_id>
+      <create_dt>22/09/15</create_dt>
+      <status>EX</status>
+      <status_decode>Aberta</status_decode>
+      <sales_channel>CORPME</sales_channel>
+      <source_order>255471834</source_order>
+      <dealer_code>WM1S</dealer_code>
+      <current_sales_channel>CORPME</current_sales_channel>
+      <oa_id>255471835</oa_id>
+      <oa_status>NE</oa_status>
+      <oa_status_decode>Negociação</oa_status_decode>
+      <action_type>PQ</action_type>
+      <action_type_decode>Ativação Corporativo</action_type_decode>
+      <ap_id>1267884039</ap_id>
+      <ap_version_id>0</ap_version_id>
+      <main_ind>1</main_ind>
+      <quantity>1</quantity>
+      <reason>Combo - Incremento de Linhas</reason>
+      <l9_group_spn_ticket_id/>
+      <l9_individual_spn_ticket_id/>
+      <customer_id>587098111</customer_id>
+      <root_customer_id>587098111</root_customer_id>
+      <organization_id>84520167</organization_id>
+      <isFullRenew>0</isFullRenew>
+      <hasTradeIn/>
+      <percDesc/>
+      <l9_market_id/>
+      <l9_market_id_desc/>
+      <l9_shipping_adr_id>8016565</l9_shipping_adr_id>
+      <area_code>31</area_code>
+      <negallowinst/>
+      <franquiaInstalada/>
+      <valorEquipamentos>2084</valorEquipamentos>
+      <valorNegociado>66.9</valorNegociado>
+      <valorNegociadoDescontado>66.9</valorNegociadoDescontado>
+      <valorCashBack100>133.8</valorCashBack100>
+      <valorCashBack85>113.73</valorCashBack85>
+      <valorCashBackPorLinha>0</valorCashBackPorLinha>
+      <valorCashBack85PorLinha>0</valorCashBack85PorLinha>
+      <equipmentsWithCashBack>1</equipmentsWithCashBack>
+      <apitem_list count="23">
+        <apitem id="1">
+          <ap_level>1</ap_level>
+          <ap_id>1267884039</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>1</main_ind>
+          <ap_id_dominant>1267884477</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50000191</epc_id>
+          <epc_version_id>10013224</epc_version_id>
+          <name_text>Assinante</name_text>
+          <name_text_idented>Assinante</name_text_idented>
+          <service_type>WIRS</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>WIRLSMC</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>Equipe 3G</price_name_text>
+          <attr_list count="15">
+            <attr id="1">
+              <domain>ImpBoolean</domain>
+              <name>AcceptEmailSMSAtt</name>
+              <value>NO</value>
+              <nameDesc>Publicidade via Email e SMS</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpDadoType</domain>
+              <name>SubTypeDadosAtt</name>
+              <value>PG3G</value>
+              <nameDesc>Tecnologia Dados</nameDesc>
+              <valueDesc>Pós-Pago Tecnologia 3G</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsString</domain>
+              <name>TemporaryVoiceLineMSISDN</name>
+              <value/>
+              <nameDesc>Temporary MSISDN</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>AbsVanityClass</domain>
+              <name>Resourcecategory</name>
+              <value>29</value>
+              <nameDesc>Resource category</nameDesc>
+              <valueDesc>Corporativo</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>ImpContactLevel</domain>
+              <name>ContactLevelAtt</name>
+              <value>DEPENDENT</value>
+              <nameDesc>Tipo Contato</nameDesc>
+              <valueDesc>Dependente</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>AbsNumeric</domain>
+              <name>ESN_Att</name>
+              <value/>
+              <nameDesc>ESN</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>ImpFGR</domain>
+              <name>FGR_Att</name>
+              <value>N</value>
+              <nameDesc>FGR</nameDesc>
+              <valueDesc>No</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>AbsString</domain>
+              <name>SPNGroupedTicketIDAtt</name>
+              <value/>
+              <nameDesc>Número Ticket Agrupado SPN</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>AbsString</domain>
+              <name>TempTNAtt</name>
+              <value/>
+              <nameDesc>Número Temporário</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>AbsString</domain>
+              <name>MSISDN</name>
+              <value/>
+              <nameDesc>MSISDN</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>AbsString</domain>
+              <name>SPNTicketIDAtt</name>
+              <value/>
+              <nameDesc>Número Ticket SPN</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>AbsString</domain>
+              <name>SIM_att</name>
+              <value/>
+              <nameDesc>SIM</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>ImpSubscriberType</domain>
+              <name>SubTypeAtt</name>
+              <value>PG3G</value>
+              <nameDesc>Tecnologia do Assinante</nameDesc>
+              <valueDesc>Pós-Pago Tecnologia 3G</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>ImpExternalProvider</domain>
+              <name>Formeprovider</name>
+              <value/>
+              <nameDesc>Former provider</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="15">
+              <domain>ImpBoolean</domain>
+              <name>PortingInd</name>
+              <value>NO</value>
+              <nameDesc>Porting Ind</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="2">
+          <ap_level>2</ap_level>
+          <ap_id>1267906691</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500181101</epc_id>
+          <epc_version_id>10013230</epc_version_id>
+          <name_text>CUG</name_text>
+          <name_text_idented>     CUG</name_text_idented>
+          <service_type>CUG</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>CUG</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="2">
+            <attr id="1">
+              <domain>AbsString</domain>
+              <name>CUGNameAtt</name>
+              <value>587098111</value>
+              <nameDesc>Nome do Grupo (CUG)</nameDesc>
+              <valueDesc>587098111</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>AbsNumeric</domain>
+              <name>CUGIDAtt</name>
+              <value>5532451</value>
+              <nameDesc>CUG ID</nameDesc>
+              <valueDesc>5532451</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="3">
+          <ap_level>2</ap_level>
+          <ap_id>1267892043</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50008831</epc_id>
+          <epc_version_id>10010910</epc_version_id>
+          <name_text>Serviços Adicionais</name_text>
+          <name_text_idented>     Serviços Adicionais</name_text_idented>
+          <service_type>SADG</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>ADDSERVICE</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="4">
+          <ap_level>3</ap_level>
+          <ap_id>1267892044</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892043</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50008501</epc_id>
+          <epc_version_id>10010860</epc_version_id>
+          <name_text>Aprovisionamento</name_text>
+          <name_text_idented>          Aprovisionamento</name_text_idented>
+          <service_type>SAD</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>APRV</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="5">
+          <ap_level>2</ap_level>
+          <ap_id>1267892050</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500097941</epc_id>
+          <epc_version_id>10010830</epc_version_id>
+          <name_text>Equipamento</name_text>
+          <name_text_idented>     Equipamento</name_text_idented>
+          <service_type>EQGR</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>EQUIPAMENTO</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="6">
+          <ap_level>3</ap_level>
+          <ap_id>1267892051</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892050</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>2083</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>2809</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>509663201</epc_id>
+          <epc_version_id>10013229</epc_version_id>
+          <name_text>Equipamento Genérico</name_text>
+          <name_text_idented>          Equipamento Genérico</name_text_idented>
+          <service_type>HSET</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>EQUIP_GEN</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>Handset BO</price_name_text>
+          <attr_list count="17">
+            <attr id="1">
+              <domain>ImpManufacturer</domain>
+              <name>ManufacturerAtt</name>
+              <value>SAMSUNG</value>
+              <nameDesc>Fabricante</nameDesc>
+              <valueDesc>Samsung</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpNumInstallments</domain>
+              <name>NumberOfInstallmentsAtt</name>
+              <value>20</value>
+              <nameDesc>Número de Parcelas</nameDesc>
+              <valueDesc>20</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsString</domain>
+              <name>ModeloAtt</name>
+              <value>AP 4G SAMSUNG G920I GALAXY S6 32GB BCO</value>
+              <nameDesc>Modelo</nameDesc>
+              <valueDesc>AP 4G SAMSUNG G920I GALAXY S6 32GB BCO</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>ImpBoolean</domain>
+              <name>ControleRegraAtt</name>
+              <value>NO</value>
+              <nameDesc>Controle de Regra</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>AbsNumeric</domain>
+              <name>SAPIDAtt</name>
+              <value>15963</value>
+              <nameDesc>SAP ID</nameDesc>
+              <valueDesc>15963</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>AbsNumeric</domain>
+              <name>ArrangementAtt</name>
+              <value/>
+              <nameDesc>Arrangement</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>AbsNumeric</domain>
+              <name>BackupApQuantityAtt</name>
+              <value>0</value>
+              <nameDesc>Quantidade de Aparelhos de Backup</nameDesc>
+              <valueDesc>0</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>AbsString</domain>
+              <name>PesoAtt</name>
+              <value>0.310</value>
+              <nameDesc>Peso</nameDesc>
+              <valueDesc>0.310</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>AbsString</domain>
+              <name>ColorAtt</name>
+              <value>BRANCO</value>
+              <nameDesc>Cor</nameDesc>
+              <valueDesc>BRANCO</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>AbsString</domain>
+              <name>IMEIAtt</name>
+              <value/>
+              <nameDesc>IMEI</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>ImpBoolean</domain>
+              <name>ShipmentIndicatorAtt</name>
+              <value>YES</value>
+              <nameDesc>Indicador de Entrega</nameDesc>
+              <valueDesc>Sim</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>ImpPurchaseReason</domain>
+              <name>PurchaseReasonAtt</name>
+              <value/>
+              <nameDesc>Motivo Compra</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>AbsNumeric</domain>
+              <name>CashbackIniDateAtt</name>
+              <value>0</value>
+              <nameDesc>Mês de início de Cashback</nameDesc>
+              <valueDesc>0</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>ImpPaymentType</domain>
+              <name>EquipmentPaymentTypeAtt</name>
+              <value>INSTALLMENT</value>
+              <nameDesc>Forma de Pagamento</nameDesc>
+              <valueDesc>à prazo</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="15">
+              <domain>ImpAcquisitionType</domain>
+              <name>AcquisitionTypeAtt</name>
+              <value>CASHBACK</value>
+              <nameDesc>Condição de Pagamento</nameDesc>
+              <valueDesc>Bônus/Desconto Claro</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="16">
+              <domain>ImpDeliveryChannel</domain>
+              <name>DeliveryChannelAtt</name>
+              <value>LOGISTICA</value>
+              <nameDesc>Método de Entrega</nameDesc>
+              <valueDesc>Logística</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="17">
+              <domain>AbsDouble</domain>
+              <name>ValorParcCashbackAtt</name>
+              <value>9.69</value>
+              <nameDesc>Valor das parcelas de Cashback</nameDesc>
+              <valueDesc>9.69</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="7">
+          <ap_level>2</ap_level>
+          <ap_id>1267892054</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50002821</epc_id>
+          <epc_version_id>10010860</epc_version_id>
+          <name_text>Modulos</name_text>
+          <name_text_idented>     Modulos</name_text_idented>
+          <service_type>MODG</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>MODGROUP</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="8">
+          <ap_level>3</ap_level>
+          <ap_id>1267892055</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892054</ap_id_dominant>
+          <service_id/>
+          <rc_amount>4</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>4</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500133321</epc_id>
+          <epc_version_id>10013230</epc_version_id>
+          <name_text>Gestor Online / Tarifa Zero / Tarifa Zero OnNet / Tarifa Zero 21 de LD </name_text>
+          <name_text_idented>          Gestor Online / Tarifa Zero / Tarifa Zero OnNet / Tarifa Zero 21 de LD </name_text_idented>
+          <service_type>MOD</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>MODGOLTZ</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>PJ Módulo Tarifa Zero Local - Flexible Rate</price_name_text>
+          <attr_list count="21">
+            <attr id="1">
+              <domain>ImpValEBT</domain>
+              <name>Pct100MinAMXAtt</name>
+              <value>-1</value>
+              <nameDesc>Pacote 100 Minutos p/ Fixo AMX Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>VALORRC</domain>
+              <name>TZIGAMXAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero Local Intra-Grupo AMX</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>VALORRC</domain>
+              <name>TZOnNetAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero OnNet</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>AbsNumeric</domain>
+              <name>CPNYNO_Att</name>
+              <value/>
+              <nameDesc>CPNYNO</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>ImpBoolean</domain>
+              <name>ONNetAprovAtt</name>
+              <value>NO</value>
+              <nameDesc>OnNet</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>VALORRC</domain>
+              <name>TZIRAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero Intra-rede</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>AbsString</domain>
+              <name>SUBNM_Att</name>
+              <value/>
+              <nameDesc>SUBNM</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>ImpModTZ</domain>
+              <name>TZ21IRNacAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero 21 de LD Intra-Rede Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>ImpPacoteMinutos</domain>
+              <name>MinEBTAtt</name>
+              <value>0</value>
+              <nameDesc>Minutos para Fixo EBT</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>VALORRC</domain>
+              <name>TZAtt</name>
+              <value>4.00</value>
+              <nameDesc>Tarifa Zero Intra-grupo Local</nameDesc>
+              <valueDesc>4.00</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>VALORRC</domain>
+              <name>IGAtt</name>
+              <value>-1</value>
+              <nameDesc>Intra-grupo</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>AbsString</domain>
+              <name>DPTO_Att</name>
+              <value/>
+              <nameDesc>DPTO</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>VALORRC</domain>
+              <name>TZSMSAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero SMS</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>ImpBoolean</domain>
+              <name>TRAtt</name>
+              <value>NO</value>
+              <nameDesc>Tarifa Reduzida</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="15">
+              <domain>ImpBoolean</domain>
+              <name>GOLPARTAtt</name>
+              <value>NO</value>
+              <nameDesc>GOL - Numero Particular</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="16">
+              <domain>ImpValEBT</domain>
+              <name>ValMinEBTAtt</name>
+              <value>0</value>
+              <nameDesc>Valor Minutos Fixo EBT</nameDesc>
+              <valueDesc>0.00</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="17">
+              <domain>VALORRC</domain>
+              <name>GOLAtt</name>
+              <value>-1</value>
+              <nameDesc>Gestor Online</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="18">
+              <domain>VALORRC</domain>
+              <name>TZ21Att</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero LD21 Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="19">
+              <domain>ImpBoolean</domain>
+              <name>ModTZFamEmpAtt</name>
+              <value>NO</value>
+              <nameDesc>Tarifa Zero Família Empresa</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="20">
+              <domain>ImpModTZ</domain>
+              <name>TZ21IGNacAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero 21 de LD Intra-Grupo Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="21">
+              <domain>ImpModTZ</domain>
+              <name>TZ21NacAtt</name>
+              <value>-1</value>
+              <nameDesc>Tarifa Zero 21 de LD Nacional</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="9">
+          <ap_level>2</ap_level>
+          <ap_id>1267892056</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50035761</epc_id>
+          <epc_version_id>10010830</epc_version_id>
+          <name_text>Ofertas Especiais</name_text>
+          <name_text_idented>     Ofertas Especiais</name_text_idented>
+          <service_type>MODG</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>OFERTASESPECIAIS</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="10">
+          <ap_level>2</ap_level>
+          <ap_id>1267892057</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50002531</epc_id>
+          <epc_version_id>10013050</epc_version_id>
+          <name_text>Pacotes</name_text>
+          <name_text_idented>     Pacotes</name_text_idented>
+          <service_type>PCGR</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>PACKAGES</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="11">
+          <ap_level>3</ap_level>
+          <ap_id>1267892058</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892057</ap_id_dominant>
+          <service_id/>
+          <rc_amount>54.9</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>54.9</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>514472732</epc_id>
+          <epc_version_id>10013230</epc_version_id>
+          <name_text>Pacote Internet Ilimitado</name_text>
+          <name_text_idented>          Pacote Internet Ilimitado</name_text_idented>
+          <service_type>PTIN</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>PCTEINTERNETILIM</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>Pacote de Internet 3GB - Assinatura por Parametro</price_name_text>
+          <attr_list count="10">
+            <attr id="1">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM5000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 5GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM50Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 50MB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM3000Att</name>
+              <value>54.90</value>
+              <nameDesc>Pacote 3GB</nameDesc>
+              <valueDesc>54.90</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM10000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 10GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM100Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 100MB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM1000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 1GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM2000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 2GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM500Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 500MB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM300Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 300MB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>VALORRC</domain>
+              <name>PCTINTILIM20000Att</name>
+              <value>-1</value>
+              <nameDesc>Pacote 20GB</nameDesc>
+              <valueDesc>Não</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="12">
+          <ap_level>2</ap_level>
+          <ap_id>1267892064</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500012831</epc_id>
+          <epc_version_id>10013221</epc_version_id>
+          <name_text>Permanência</name_text>
+          <name_text_idented>     Permanência</name_text_idented>
+          <service_type>PERM</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>PERM</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>PJ Permanencia 24 Meses</price_name_text>
+          <attr_list count="1">
+            <attr id="1">
+              <domain>ImpCommitmentDuration</domain>
+              <name>CommitDurationAtt</name>
+              <value>24</value>
+              <nameDesc>Tempo Permanencia</nameDesc>
+              <valueDesc>PJ 24 Meses</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="13">
+          <ap_level>2</ap_level>
+          <ap_id>1267892066</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50000021</epc_id>
+          <epc_version_id>10013130</epc_version_id>
+          <name_text>Plano</name_text>
+          <name_text_idented>     Plano</name_text_idented>
+          <service_type>PGRP</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>PLANO</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="14">
+          <ap_level>3</ap_level>
+          <ap_id>1267892067</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892066</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50026751</epc_id>
+          <epc_version_id>10013235</epc_version_id>
+          <name_text>LDN Embratel</name_text>
+          <name_text_idented>          LDN Embratel</name_text_idented>
+          <service_type>RATE</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>LDN_EMBRATEL</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>PJ Tarifa LDN Embratel 9</price_name_text>
+          <attr_list count="1">
+            <attr id="1">
+              <domain>ImpEmbratel</domain>
+              <name>FxEmbratelAtt</name>
+              <value>PJTarifaLDNEmbratel9</value>
+              <nameDesc>Faixa Embratel</nameDesc>
+              <valueDesc>PJ Tarifa LDN Embratel 9</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="15">
+          <ap_level>3</ap_level>
+          <ap_id>1267892069</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892066</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>501934851</epc_id>
+          <epc_version_id>10013211</epc_version_id>
+          <name_text>Sob Medida Corporativo</name_text>
+          <name_text_idented>          Sob Medida Corporativo</name_text_idented>
+          <service_type>PGRP</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>SOBMEDIDACORP_PLAN</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="16">
+          <ap_level>4</ap_level>
+          <ap_id>1267892070</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892069</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>515287782</epc_id>
+          <epc_version_id>10013187</epc_version_id>
+          <name_text>Claro Flex</name_text>
+          <name_text_idented>               Claro Flex</name_text_idented>
+          <service_type>PGRP</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>CLAROFLEX_PLANGROUP</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="17">
+          <ap_level>5</ap_level>
+          <ap_id>1267892071</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892070</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>515288002</epc_id>
+          <epc_version_id>10013225</epc_version_id>
+          <name_text>Claro Flex 25</name_text>
+          <name_text_idented>                    Claro Flex 25</name_text_idented>
+          <service_type>PLAN</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>CLRFLEX25_PLAN</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="18">
+          <ap_level>6</ap_level>
+          <ap_id>1267892072</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892071</ap_id_dominant>
+          <service_id/>
+          <rc_amount>8</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>8</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500028591</epc_id>
+          <epc_version_id>10013226</epc_version_id>
+          <name_text>Assinatura Linha Sob Medida</name_text>
+          <name_text_idented>                         Assinatura Linha Sob Medida</name_text_idented>
+          <service_type>ASS</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>ASS_LINHASOBMEDIDA</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>PJ Assinatura de Linha - Sob Medida</price_name_text>
+          <attr_list count="1">
+            <attr id="1">
+              <domain>VALORRC</domain>
+              <name>AssAtt</name>
+              <value>8.00</value>
+              <nameDesc>Assinatura Linha</nameDesc>
+              <valueDesc>8.00</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="19">
+          <ap_level>6</ap_level>
+          <ap_id>1267892076</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892071</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt>130</negotiableallowanceatt>
+          <franqconsindatt/>
+          <epc_id>515322442</epc_id>
+          <epc_version_id>10013015</epc_version_id>
+          <name_text>Franquia Claro Flex 25</name_text>
+          <name_text_idented>                         Franquia Claro Flex 25</name_text_idented>
+          <service_type>BNDL</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>CFLEX25_FRANQUIA</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="4">
+            <attr id="1">
+              <domain>AbsNumeric</domain>
+              <name>MaximumAllowanceAtt</name>
+              <value>1000000</value>
+              <nameDesc>Franquia Máxima</nameDesc>
+              <valueDesc>1000000</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>AbsNumeric</domain>
+              <name>MinimumAllowanceAtt</name>
+              <value>100</value>
+              <nameDesc>Franquia Mínima</nameDesc>
+              <valueDesc>100</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsNumeric</domain>
+              <name>NegotiableAllowanceAtt</name>
+              <value>130</value>
+              <nameDesc>Franquia Negociada</nameDesc>
+              <valueDesc>130</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>AbsNumeric</domain>
+              <name>AllowanceIncrementAtt</name>
+              <value>5</value>
+              <nameDesc>Incremento de Franquia</nameDesc>
+              <valueDesc>5</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="20">
+          <ap_level>6</ap_level>
+          <ap_id>1267892077</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267892071</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>512107342</epc_id>
+          <epc_version_id>10013050</epc_version_id>
+          <name_text>Tarifa Claro Flex 25</name_text>
+          <name_text_idented>                         Tarifa Claro Flex 25</name_text_idented>
+          <service_type>RATE</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>VC1IRCF025</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="3">
+            <attr id="1">
+              <domain>ImpValorTarifa</domain>
+              <name>VC1MovelAtt</name>
+              <value>0.25</value>
+              <nameDesc>VC1Movel</nameDesc>
+              <valueDesc>0.25</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpValorTarifa</domain>
+              <name>VC1IRAtt</name>
+              <value>0.25</value>
+              <nameDesc>VC1IR</nameDesc>
+              <valueDesc>0.25</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>ImpValorTarifa</domain>
+              <name>VC1FixoAtt</name>
+              <value>0.25</value>
+              <nameDesc>VC1Fixo</nameDesc>
+              <valueDesc>0.25</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+        <apitem id="21">
+          <ap_level>2</ap_level>
+          <ap_id>1267892078</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>50012911</epc_id>
+          <epc_version_id>10010830</epc_version_id>
+          <name_text>Promoções</name_text>
+          <name_text_idented>     Promoções</name_text_idented>
+          <service_type>PRMG</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>PRMG</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="22">
+          <ap_level>2</ap_level>
+          <ap_id>1267892079</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>0</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>0</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>511174081</epc_id>
+          <epc_version_id>10013083</epc_version_id>
+          <name_text>Renovação Contrato</name_text>
+          <name_text_idented>     Renovação Contrato</name_text_idented>
+          <service_type>PERM</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>RENCONTRAT</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text/>
+          <attr_list count="0"/>
+        </apitem>
+        <apitem id="23">
+          <ap_level>2</ap_level>
+          <ap_id>1267892080</ap_id>
+          <ap_version_id>0</ap_version_id>
+          <main_ind>0</main_ind>
+          <ap_id_dominant>1267884039</ap_id_dominant>
+          <service_id/>
+          <rc_amount>0</rc_amount>
+          <oc_amount>1</oc_amount>
+          <rc_amount_original>0</rc_amount_original>
+          <oc_amount_original>31.9</oc_amount_original>
+          <negotiableallowanceatt/>
+          <franqconsindatt/>
+          <epc_id>500000161</epc_id>
+          <epc_version_id>10013230</epc_version_id>
+          <name_text>SIM Card</name_text>
+          <name_text_idented>     SIM Card</name_text_idented>
+          <service_type>SIM</service_type>
+          <item_action_type>MA</item_action_type>
+          <item_type>CO</item_type>
+          <item_type_description>Component</item_type_description>
+          <caption>SIMCARD</caption>
+          <ent_type>PCCOMPONENT_DEFINITION</ent_type>
+          <price_name_text>SimCard BO</price_name_text>
+          <attr_list count="14">
+            <attr id="1">
+              <domain>AbsDouble</domain>
+              <name>ValorParcCashbackAtt</name>
+              <value/>
+              <nameDesc>Valor das parcelas de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="2">
+              <domain>ImpManufacturer</domain>
+              <name>ManufacturerAtt</name>
+              <value/>
+              <nameDesc>Fabricante</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="3">
+              <domain>AbsNumeric</domain>
+              <name>BillingArrangementAtt</name>
+              <value/>
+              <nameDesc>Billing Arrangement</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="4">
+              <domain>ImpSalesType</domain>
+              <name>SalesTypeAtt</name>
+              <value>DESCCLARO</value>
+              <nameDesc>Tipo de Venda</nameDesc>
+              <valueDesc>Desconto Claro</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="5">
+              <domain>AbsNumeric</domain>
+              <name>CashbackIniDateAtt</name>
+              <value/>
+              <nameDesc>Mês de início de Cashback</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="6">
+              <domain>ImpAcquisitionType</domain>
+              <name>AcquisitionTypeAtt</name>
+              <value>CASHBACK</value>
+              <nameDesc>Condição de Pagamento</nameDesc>
+              <valueDesc>Bônus/Desconto Claro</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="7">
+              <domain>AbsNumeric</domain>
+              <name>BackupQuantityAtt</name>
+              <value>0</value>
+              <nameDesc>Quantidade Backup</nameDesc>
+              <valueDesc>0</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="8">
+              <domain>ImpNumInstallments</domain>
+              <name>NumberOfInstallmentsAtt</name>
+              <value>20</value>
+              <nameDesc>Número de Parcelas</nameDesc>
+              <valueDesc>20</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="9">
+              <domain>ImpBoolean</domain>
+              <name>ShipmentIndicatorAtt</name>
+              <value>YES</value>
+              <nameDesc>Indicador de Entrega</nameDesc>
+              <valueDesc>Sim</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="10">
+              <domain>ImpPaymentType</domain>
+              <name>EquipmentPaymentTypeAtt</name>
+              <value>INSTALLMENT</value>
+              <nameDesc>Forma de Pagamento</nameDesc>
+              <valueDesc>à prazo</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="11">
+              <domain>IMP_SAP_SIMCARDS</domain>
+              <name>SIM_SAPIDAtt</name>
+              <value>22896</value>
+              <nameDesc>Tipo Simcard</nameDesc>
+              <valueDesc>SCBOPP IMPR 3NP MG 128KB AAC005 TRIPLE</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="12">
+              <domain>AbsString</domain>
+              <name>ICCIDAtt</name>
+              <value/>
+              <nameDesc>ICCID</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="13">
+              <domain>ImpDeliveryChannel</domain>
+              <name>DeliveryChannelAtt</name>
+              <value>LOGISTICA</value>
+              <nameDesc>Método de Entrega</nameDesc>
+              <valueDesc>Logística</valueDesc>
+              <isVisible>true</isVisible>
+            </attr>
+            <attr id="14">
+              <domain>AbsNumeric</domain>
+              <name>ArrangementAtt</name>
+              <value/>
+              <nameDesc>Arrangement</nameDesc>
+              <valueDesc/>
+              <isVisible>true</isVisible>
+            </attr>
+          </attr_list>
+        </apitem>
+      </apitem_list>
+    </order>
+  </order_list>
+  <equipments>
+    <order_list count="3">
+      <order id="1">
+        <order_id>255478877</order_id>
+        <equipment_list count="1">
+          <equipment id="1">
+            <service_type>HSET</service_type>
+            <caption>EQUIP_GEN</caption>
+            <name_text>Equipamento Genérico</name_text>
+            <quantity>1</quantity>
+            <price>1164</price>
+            <ColorAtt>PRETO</ColorAtt>
+            <EquipmentPaymentTypeAtt>à prazo</EquipmentPaymentTypeAtt>
+            <ValorParcCashbackAtt/>
+            <ManufacturerAtt>Sony</ManufacturerAtt>
+            <ModeloAtt>AP 4G SONY E2306 XPERIA M4 AQUA PTO</ModeloAtt>
+            <NumberOfInstallmentsAtt>20</NumberOfInstallmentsAtt>
+            <AcquisitionTypeAtt>Bônus/Desconto Claro</AcquisitionTypeAtt>
+            <BackupApQuantityAtt>0</BackupApQuantityAtt>
+            <BackupQuantityAtt/>
+            <SAPIDAtt>16001</SAPIDAtt>
+            <SalesTypeAtt/>
+            <DeliveryChannelAtt>Logística</DeliveryChannelAtt>
+            <SIM_SAPIDAtt/>
+          </equipment>
+        </equipment_list>
+      </order>
+      <order id="2">
+        <order_id>255471217</order_id>
+        <equipment_list count="0"/>
+      </order>
+      <order id="3">
+        <order_id>255471834</order_id>
+        <equipment_list count="2">
+          <equipment id="1">
+            <service_type>HSET</service_type>
+            <caption>EQUIP_GEN</caption>
+            <name_text>Equipamento Genérico</name_text>
+            <quantity>1</quantity>
+            <price>2083</price>
+            <ColorAtt>BRANCO</ColorAtt>
+            <EquipmentPaymentTypeAtt>à prazo</EquipmentPaymentTypeAtt>
+            <ValorParcCashbackAtt>9.69</ValorParcCashbackAtt>
+            <ManufacturerAtt>Samsung</ManufacturerAtt>
+            <ModeloAtt>AP 4G SAMSUNG G920I GALAXY S6 32GB BCO</ModeloAtt>
+            <NumberOfInstallmentsAtt>20</NumberOfInstallmentsAtt>
+            <AcquisitionTypeAtt>Bônus/Desconto Claro</AcquisitionTypeAtt>
+            <BackupApQuantityAtt>0</BackupApQuantityAtt>
+            <BackupQuantityAtt/>
+            <SAPIDAtt>15963</SAPIDAtt>
+            <SalesTypeAtt/>
+            <DeliveryChannelAtt>Logística</DeliveryChannelAtt>
+            <SIM_SAPIDAtt/>
+          </equipment>
+          <equipment id="2">
+            <service_type>SIM</service_type>
+            <caption>SIMCARD</caption>
+            <name_text>SIM Card</name_text>
+            <quantity>1</quantity>
+            <price>1</price>
+            <ColorAtt/>
+            <EquipmentPaymentTypeAtt>à prazo</EquipmentPaymentTypeAtt>
+            <ValorParcCashbackAtt>9.69</ValorParcCashbackAtt>
+            <ManufacturerAtt/>
+            <ModeloAtt/>
+            <NumberOfInstallmentsAtt>20</NumberOfInstallmentsAtt>
+            <AcquisitionTypeAtt>Bônus/Desconto Claro</AcquisitionTypeAtt>
+            <BackupApQuantityAtt/>
+            <BackupQuantityAtt>0</BackupQuantityAtt>
+            <SAPIDAtt/>
+            <SalesTypeAtt>Desconto Claro</SalesTypeAtt>
+            <DeliveryChannelAtt>Logística</DeliveryChannelAtt>
+            <SIM_SAPIDAtt>22896-SCBOPP IMPR 3NP MG 128KB AAC005 TRIPLE</SIM_SAPIDAtt>
+          </equipment>
+        </equipment_list>
+      </order>
+    </order_list>
+  </equipments>
+  <negoc_items>
+    <order_list count="3">
+      <order id="1">
+        <order_id>255478877</order_id>
+        <negoc_item_list count="1">
+          <negoc_item id="1">
+            <service_type>PTIN</service_type>
+            <caption>PCTEINTERNETILIM</caption>
+            <name_text>Pacote Internet Ilimitado</name_text>
+            <quantity>1</quantity>
+            <rc_amount>54.9</rc_amount>
+            <oc_amount>0</oc_amount>
+            <rc_amount_original/>
+            <oc_amount_original>0</oc_amount_original>
+            <negallowinst>0</negallowinst>
+            <action_type/>
+            <hasCashBack/>
+            <targetRelated>0</targetRelated>
+            <valorAnterior/>
+            <caminho/>
+          </negoc_item>
+        </negoc_item_list>
+      </order>
+      <order id="2">
+        <order_id>255471217</order_id>
+        <negoc_item_list count="1">
+          <negoc_item id="1">
+            <service_type>BNDL</service_type>
+            <caption>CFLEX25_FRANQUIA</caption>
+            <name_text>Franquia Claro Flex 25</name_text>
+            <quantity>1</quantity>
+            <rc_amount>130</rc_amount>
+            <oc_amount>0</oc_amount>
+            <rc_amount_original/>
+            <oc_amount_original>0</oc_amount_original>
+            <negallowinst>100</negallowinst>
+            <action_type/>
+            <hasCashBack>D</hasCashBack>
+            <targetRelated>515322532;515322442;515322352;601114871;510883781;33931;50026891</targetRelated>
+            <valorAnterior>100</valorAnterior>
+            <caminho>entrou primeiro if: 2 1059114660 515322532;515322442;515322352;601114871;510883781;33931;50026891 255471218</caminho>
+          </negoc_item>
+        </negoc_item_list>
+      </order>
+      <order id="3">
+        <order_id>255471834</order_id>
+        <negoc_item_list count="3">
+          <negoc_item id="1">
+            <service_type>MOD</service_type>
+            <caption>MODGOLTZ</caption>
+            <name_text>Gestor Online / Tarifa Zero / Tarifa Zero OnNet / Tarifa Zero 21 de LD </name_text>
+            <quantity>1</quantity>
+            <rc_amount>4</rc_amount>
+            <oc_amount>0</oc_amount>
+            <rc_amount_original/>
+            <oc_amount_original>0</oc_amount_original>
+            <negallowinst>0</negallowinst>
+            <action_type>MA</action_type>
+            <hasCashBack>N</hasCashBack>
+            <targetRelated>0</targetRelated>
+            <valorAnterior>8</valorAnterior>
+            <caminho>entrou segundo if</caminho>
+          </negoc_item>
+          <negoc_item id="2">
+            <service_type>PTIN</service_type>
+            <caption>PCTEINTERNETILIM</caption>
+            <name_text>Pacote Internet Ilimitado</name_text>
+            <quantity>1</quantity>
+            <rc_amount>54.9</rc_amount>
+            <oc_amount>0</oc_amount>
+            <rc_amount_original/>
+            <oc_amount_original>0</oc_amount_original>
+            <negallowinst>0</negallowinst>
+            <action_type>MA</action_type>
+            <hasCashBack>N</hasCashBack>
+            <targetRelated>0</targetRelated>
+            <valorAnterior>109.8</valorAnterior>
+            <caminho>entrou segundo if</caminho>
+          </negoc_item>
+          <negoc_item id="3">
+            <service_type>ASS</service_type>
+            <caption>ASS_LINHASOBMEDIDA</caption>
+            <name_text>Assinatura Linha Sob Medida</name_text>
+            <quantity>1</quantity>
+            <rc_amount>8</rc_amount>
+            <oc_amount>0</oc_amount>
+            <rc_amount_original/>
+            <oc_amount_original>0</oc_amount_original>
+            <negallowinst>0</negallowinst>
+            <action_type>MA</action_type>
+            <hasCashBack>N</hasCashBack>
+            <targetRelated>0</targetRelated>
+            <valorAnterior>16</valorAnterior>
+            <caminho>entrou segundo if</caminho>
+          </negoc_item>
+        </negoc_item_list>
+      </order>
+    </order_list>
+  </negoc_items>
+  <rates>
+    <order_list count="3"/>
+  </rates>
+  <ntcs>
+    <order_list count="3">
+      <order id="1">
+        <order_id>255478877</order_id>
+        <ntc_list count="1">
+          <ntc id="1">
+            <msisdn>3184494360</msisdn>
+            <area_code>31</area_code>
+            <is_port_in_number/>
+            <cnpj>10692927000193</cnpj>
+            <service_provider/>
+            <spnticket_id/>
+            <group_tkt_id/>
+            <status_ntc>Ativo</status_ntc>
+          </ntc>
+        </ntc_list>
+      </order>
+      <order id="2">
+        <order_id>255471217</order_id>
+        <ntc_list count="0"/>
+      </order>
+      <order id="3">
+        <order_id>255471834</order_id>
+        <ntc_list count="0"/>
+      </order>
+    </order_list>
+  </ntcs>
+  <assignments>
+    <order_list count="3">
+      <order id="1">
+        <order_id>255478877</order_id>
+        <assignment_list count="1">
+          <assignment id="1">
+            <tipo>Atual</tipo>
+            <create_dt>22/09/15</create_dt>
+            <update_dt>22/09/15</update_dt>
+            <state>Ativada</state>
+            <form_id>Submeter</form_id>
+            <performer_id>4s69n</performer_id>
+            <is_exception>0</is_exception>
+          </assignment>
+        </assignment_list>
+      </order>
+      <order id="2">
+        <order_id>255471217</order_id>
+        <assignment_list count="1">
+          <assignment id="1">
+            <tipo>Atual</tipo>
+            <create_dt>22/09/15</create_dt>
+            <update_dt>22/09/15</update_dt>
+            <state>Ativada</state>
+            <form_id>Submeter</form_id>
+            <performer_id>4s69n</performer_id>
+            <is_exception>0</is_exception>
+          </assignment>
+        </assignment_list>
+      </order>
+      <order id="3">
+        <order_id>255471834</order_id>
+        <assignment_list count="1">
+          <assignment id="1">
+            <tipo>Atual</tipo>
+            <create_dt>22/09/15</create_dt>
+            <update_dt>22/09/15</update_dt>
+            <state>Ativada</state>
+            <form_id>Submeter</form_id>
+            <performer_id>4s69n</performer_id>
+            <is_exception>0</is_exception>
+          </assignment>
+        </assignment_list>
+      </order>
+    </order_list>
+  </assignments>
+  <execution_status>
+    <status>OK</status>
+    <error_code/>
+    <error_msg/>
+  </execution_status>
+</OMS>
+
