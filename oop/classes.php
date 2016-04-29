@@ -1,18 +1,40 @@
 <?php
 
-class A
-{
-
-    public $teste = 10;
-
+class A {
+    protected $a = 1;
+    function a() {echo $this->a++;}
 }
 
-$a = new A;
+class B extends A {
+    protected $a = 10;
+    function b() {echo $this->a++; $this->a();}
+}
 
-$b = $a;
+$b = new B();
+$b->b(); //10111213
 
-$a->teste = 15;
+// --------------------------------------------------
+/*
+class myClass {
+    public $member = "ABC";
+    static function showMember(){
+        var_dump($this->member);
+    }
+}
+myClass::showMember();//Fatal error: Using $this when not in object context
+*/
+// --------------------------------------------------
+class Me {
+    const NAME = "Ricardo";
+}
+class MiniMe extends Me {}
+echo MiniMe::NAME; //Ricardo -> Constante não precisa ser estatico para o acesso. Herda normalmente
 
-$b->teste = 20;
+// --------------------------------------------------
+abstract class absClass {
+    abstract function executar();
+}
 
-echo $a->teste;
+abstract class absClassB extends absClass {
+    function executar() {}
+}

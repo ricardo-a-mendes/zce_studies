@@ -69,6 +69,8 @@ echo 5 ^ 9;
  & = 1100 //Output 12
 */
 echo '<br>';
+echo ~32;// -33
+echo '<hr>';
 //----------------------------
 //(Left Shift <<) - Multiplica
 echo 3 << 4; // 3*2^4 = 3*16 = 48
